@@ -1,0 +1,14 @@
+C:\Users\melvin\Documents\Visual Basic Projects\variables_data_types\bin\Debug\net6.0\variables_data_types.exe
+C:\Users\melvin\Documents\Visual Basic Projects\variables_data_types\bin\Debug\net6.0\variables_data_types.deps.json
+C:\Users\melvin\Documents\Visual Basic Projects\variables_data_types\bin\Debug\net6.0\variables_data_types.runtimeconfig.json
+C:\Users\melvin\Documents\Visual Basic Projects\variables_data_types\bin\Debug\net6.0\variables_data_types.dll
+C:\Users\melvin\Documents\Visual Basic Projects\variables_data_types\bin\Debug\net6.0\variables_data_types.pdb
+C:\Users\melvin\Documents\Visual Basic Projects\variables_data_types\obj\Debug\net6.0\variables_data_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melvin\Documents\Visual Basic Projects\variables_data_types\obj\Debug\net6.0\variables_data_types.AssemblyInfoInputs.cache
+C:\Users\melvin\Documents\Visual Basic Projects\variables_data_types\obj\Debug\net6.0\variables_data_types.AssemblyInfo.vb
+C:\Users\melvin\Documents\Visual Basic Projects\variables_data_types\obj\Debug\net6.0\variables_data_types.vbproj.CoreCompileInputs.cache
+C:\Users\melvin\Documents\Visual Basic Projects\variables_data_types\obj\Debug\net6.0\variables_data_types.dll
+C:\Users\melvin\Documents\Visual Basic Projects\variables_data_types\obj\Debug\net6.0\refint\variables_data_types.dll
+C:\Users\melvin\Documents\Visual Basic Projects\variables_data_types\obj\Debug\net6.0\variables_data_types.pdb
+C:\Users\melvin\Documents\Visual Basic Projects\variables_data_types\obj\Debug\net6.0\variables_data_types.genruntimeconfig.cache
+C:\Users\melvin\Documents\Visual Basic Projects\variables_data_types\obj\Debug\net6.0\ref\variables_data_types.dll

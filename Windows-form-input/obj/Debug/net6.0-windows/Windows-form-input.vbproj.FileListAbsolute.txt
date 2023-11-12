@@ -1,0 +1,16 @@
+C:\Users\melvin\Documents\Visual Basic Projects\Windows-form-input\bin\Debug\net6.0-windows\Windows-form-input.exe
+C:\Users\melvin\Documents\Visual Basic Projects\Windows-form-input\bin\Debug\net6.0-windows\Windows-form-input.deps.json
+C:\Users\melvin\Documents\Visual Basic Projects\Windows-form-input\bin\Debug\net6.0-windows\Windows-form-input.runtimeconfig.json
+C:\Users\melvin\Documents\Visual Basic Projects\Windows-form-input\bin\Debug\net6.0-windows\Windows-form-input.dll
+C:\Users\melvin\Documents\Visual Basic Projects\Windows-form-input\bin\Debug\net6.0-windows\Windows-form-input.pdb
+C:\Users\melvin\Documents\Visual Basic Projects\Windows-form-input\obj\Debug\net6.0-windows\Windows_form_input.Form1.resources
+C:\Users\melvin\Documents\Visual Basic Projects\Windows-form-input\obj\Debug\net6.0-windows\Windows-form-input.vbproj.GenerateResource.cache
+C:\Users\melvin\Documents\Visual Basic Projects\Windows-form-input\obj\Debug\net6.0-windows\Windows-form-input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melvin\Documents\Visual Basic Projects\Windows-form-input\obj\Debug\net6.0-windows\Windows-form-input.AssemblyInfoInputs.cache
+C:\Users\melvin\Documents\Visual Basic Projects\Windows-form-input\obj\Debug\net6.0-windows\Windows-form-input.AssemblyInfo.vb
+C:\Users\melvin\Documents\Visual Basic Projects\Windows-form-input\obj\Debug\net6.0-windows\Windows-form-input.vbproj.CoreCompileInputs.cache
+C:\Users\melvin\Documents\Visual Basic Projects\Windows-form-input\obj\Debug\net6.0-windows\Windows-form-input.dll
+C:\Users\melvin\Documents\Visual Basic Projects\Windows-form-input\obj\Debug\net6.0-windows\refint\Windows-form-input.dll
+C:\Users\melvin\Documents\Visual Basic Projects\Windows-form-input\obj\Debug\net6.0-windows\Windows-form-input.pdb
+C:\Users\melvin\Documents\Visual Basic Projects\Windows-form-input\obj\Debug\net6.0-windows\Windows-form-input.genruntimeconfig.cache
+C:\Users\melvin\Documents\Visual Basic Projects\Windows-form-input\obj\Debug\net6.0-windows\ref\Windows-form-input.dll
