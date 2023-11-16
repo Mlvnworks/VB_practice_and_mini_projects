@@ -1,0 +1,17 @@
+C:\Users\melvin\Documents\Visual Basic Projects\FormComponents\bin\Debug\net6.0-windows\FormComponents.exe
+C:\Users\melvin\Documents\Visual Basic Projects\FormComponents\bin\Debug\net6.0-windows\FormComponents.deps.json
+C:\Users\melvin\Documents\Visual Basic Projects\FormComponents\bin\Debug\net6.0-windows\FormComponents.runtimeconfig.json
+C:\Users\melvin\Documents\Visual Basic Projects\FormComponents\bin\Debug\net6.0-windows\FormComponents.dll
+C:\Users\melvin\Documents\Visual Basic Projects\FormComponents\bin\Debug\net6.0-windows\FormComponents.pdb
+C:\Users\melvin\Documents\Visual Basic Projects\FormComponents\obj\Debug\net6.0-windows\FormComponents.Form1.resources
+C:\Users\melvin\Documents\Visual Basic Projects\FormComponents\obj\Debug\net6.0-windows\FormComponents.Resources.resources
+C:\Users\melvin\Documents\Visual Basic Projects\FormComponents\obj\Debug\net6.0-windows\FormComponents.vbproj.GenerateResource.cache
+C:\Users\melvin\Documents\Visual Basic Projects\FormComponents\obj\Debug\net6.0-windows\FormComponents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melvin\Documents\Visual Basic Projects\FormComponents\obj\Debug\net6.0-windows\FormComponents.AssemblyInfoInputs.cache
+C:\Users\melvin\Documents\Visual Basic Projects\FormComponents\obj\Debug\net6.0-windows\FormComponents.AssemblyInfo.vb
+C:\Users\melvin\Documents\Visual Basic Projects\FormComponents\obj\Debug\net6.0-windows\FormComponents.vbproj.CoreCompileInputs.cache
+C:\Users\melvin\Documents\Visual Basic Projects\FormComponents\obj\Debug\net6.0-windows\FormComponents.dll
+C:\Users\melvin\Documents\Visual Basic Projects\FormComponents\obj\Debug\net6.0-windows\refint\FormComponents.dll
+C:\Users\melvin\Documents\Visual Basic Projects\FormComponents\obj\Debug\net6.0-windows\FormComponents.pdb
+C:\Users\melvin\Documents\Visual Basic Projects\FormComponents\obj\Debug\net6.0-windows\FormComponents.genruntimeconfig.cache
+C:\Users\melvin\Documents\Visual Basic Projects\FormComponents\obj\Debug\net6.0-windows\ref\FormComponents.dll

@@ -1,0 +1,16 @@
+C:\Users\melvin\Documents\Visual Basic Projects\To-Do List Application\bin\Debug\net6.0-windows\To-Do List Application.exe
+C:\Users\melvin\Documents\Visual Basic Projects\To-Do List Application\bin\Debug\net6.0-windows\To-Do List Application.deps.json
+C:\Users\melvin\Documents\Visual Basic Projects\To-Do List Application\bin\Debug\net6.0-windows\To-Do List Application.runtimeconfig.json
+C:\Users\melvin\Documents\Visual Basic Projects\To-Do List Application\bin\Debug\net6.0-windows\To-Do List Application.dll
+C:\Users\melvin\Documents\Visual Basic Projects\To-Do List Application\bin\Debug\net6.0-windows\To-Do List Application.pdb
+C:\Users\melvin\Documents\Visual Basic Projects\To-Do List Application\obj\Debug\net6.0-windows\To_Do_List_Application.Form1.resources
+C:\Users\melvin\Documents\Visual Basic Projects\To-Do List Application\obj\Debug\net6.0-windows\To-Do List Application.vbproj.GenerateResource.cache
+C:\Users\melvin\Documents\Visual Basic Projects\To-Do List Application\obj\Debug\net6.0-windows\To-Do List Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melvin\Documents\Visual Basic Projects\To-Do List Application\obj\Debug\net6.0-windows\To-Do List Application.AssemblyInfoInputs.cache
+C:\Users\melvin\Documents\Visual Basic Projects\To-Do List Application\obj\Debug\net6.0-windows\To-Do List Application.AssemblyInfo.vb
+C:\Users\melvin\Documents\Visual Basic Projects\To-Do List Application\obj\Debug\net6.0-windows\To-Do List Application.vbproj.CoreCompileInputs.cache
+C:\Users\melvin\Documents\Visual Basic Projects\To-Do List Application\obj\Debug\net6.0-windows\To-Do List Application.dll
+C:\Users\melvin\Documents\Visual Basic Projects\To-Do List Application\obj\Debug\net6.0-windows\refint\To-Do List Application.dll
+C:\Users\melvin\Documents\Visual Basic Projects\To-Do List Application\obj\Debug\net6.0-windows\To-Do List Application.pdb
+C:\Users\melvin\Documents\Visual Basic Projects\To-Do List Application\obj\Debug\net6.0-windows\To-Do List Application.genruntimeconfig.cache
+C:\Users\melvin\Documents\Visual Basic Projects\To-Do List Application\obj\Debug\net6.0-windows\ref\To-Do List Application.dll
