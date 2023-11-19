@@ -1,0 +1,16 @@
+C:\Users\melvin\Documents\Visual Basic Projects\temperature_converter\bin\Debug\net6.0-windows\temperature_converter.exe
+C:\Users\melvin\Documents\Visual Basic Projects\temperature_converter\bin\Debug\net6.0-windows\temperature_converter.deps.json
+C:\Users\melvin\Documents\Visual Basic Projects\temperature_converter\bin\Debug\net6.0-windows\temperature_converter.runtimeconfig.json
+C:\Users\melvin\Documents\Visual Basic Projects\temperature_converter\bin\Debug\net6.0-windows\temperature_converter.dll
+C:\Users\melvin\Documents\Visual Basic Projects\temperature_converter\bin\Debug\net6.0-windows\temperature_converter.pdb
+C:\Users\melvin\Documents\Visual Basic Projects\temperature_converter\obj\Debug\net6.0-windows\temperature_converter.Form1.resources
+C:\Users\melvin\Documents\Visual Basic Projects\temperature_converter\obj\Debug\net6.0-windows\temperature_converter.vbproj.GenerateResource.cache
+C:\Users\melvin\Documents\Visual Basic Projects\temperature_converter\obj\Debug\net6.0-windows\temperature_converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melvin\Documents\Visual Basic Projects\temperature_converter\obj\Debug\net6.0-windows\temperature_converter.AssemblyInfoInputs.cache
+C:\Users\melvin\Documents\Visual Basic Projects\temperature_converter\obj\Debug\net6.0-windows\temperature_converter.AssemblyInfo.vb
+C:\Users\melvin\Documents\Visual Basic Projects\temperature_converter\obj\Debug\net6.0-windows\temperature_converter.vbproj.CoreCompileInputs.cache
+C:\Users\melvin\Documents\Visual Basic Projects\temperature_converter\obj\Debug\net6.0-windows\temperature_converter.dll
+C:\Users\melvin\Documents\Visual Basic Projects\temperature_converter\obj\Debug\net6.0-windows\refint\temperature_converter.dll
+C:\Users\melvin\Documents\Visual Basic Projects\temperature_converter\obj\Debug\net6.0-windows\temperature_converter.pdb
+C:\Users\melvin\Documents\Visual Basic Projects\temperature_converter\obj\Debug\net6.0-windows\temperature_converter.genruntimeconfig.cache
+C:\Users\melvin\Documents\Visual Basic Projects\temperature_converter\obj\Debug\net6.0-windows\ref\temperature_converter.dll
